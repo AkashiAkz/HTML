@@ -1,0 +1,37 @@
+body {
+    background: black;
+    color: white;
+    margin: 0px;
+}
+
+header {
+    background: black;
+    color: blue;
+    border-bottom: solid 2px;
+    border-color: rgb(42, 122, 228);
+    padding: 20px;
+    font-size: 32px;
+}
+
+h1 {
+    color: aqua;
+    padding-top: 100px;
+    padding-left: 200px;
+    border: 10px;
+    font-size: 32px;
+
+}
+
+p {
+    font-size: 22px;
+    padding-left: 200px;
+    color: aqua;
+}
+
+iframe {
+    padding-left: 1050px;
+
+
+
+
+}
